@@ -1,0 +1,50 @@
+   
+25x25
+   One Sample t-test
+
+data:  df$CleanData
+t = 108.72, df = 6999, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 244.1363 253.1017
+sample estimates:
+mean of x
+  248.619
+
+
+50x50
+          One Sample t-test
+
+data:  pop[, 2]
+t = 61.3, df = 6999, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 427.3482 455.5833
+sample estimates:
+mean of x
+ 441.4657
+
+10x10
+       One Sample t-test
+
+data:  pop[, 2]
+t = 224.99, df = 6999, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 62.53479 63.63407
+sample estimates:
+mean of x
+ 63.08443
+
+40x40
+
+        One Sample t-test
+
+data:  pop[, 2]
+t = 74.258, df = 6999, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 396.4166 417.9137
+sample estimates:
+mean of x
+ 407.1651
